@@ -1,5 +1,5 @@
 # FIZZ BUZZ KATA
 
-linkt to tke kata => https://codingdojo.org/kata/FizzBuzz/
+linkt to the kata => https://codingdojo.org/kata/FizzBuzz/
 
 
